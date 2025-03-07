@@ -6,4 +6,5 @@ my_favorite_food = 'Sushi'
 my_favorite_plant = 'rhododendron'
 
 # Print out my_favorite_food to the console
+print("Hello!")
 print(f'My favorite is {my_favorite_food}!')
